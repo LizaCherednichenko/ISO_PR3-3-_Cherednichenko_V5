@@ -31,7 +31,7 @@ namespace ISO_PR3_3__Cherednichenko_V5
             double x = Convert.ToDouble(X.Text);
 
             //Ввод исходных данных в окно результатов
-            Itog.Text = "Результаты работы программы ст. гр. 402 ИСП Чередниченко Е.К." + Environment.NewLine;
+            Itog.Text = "Результаты работы программы ст. гр. 402 ИСП Чередниченко Е.К. Вариант 5" + Environment.NewLine;
             Itog.Text += "При X = " + X.Text + Environment.NewLine;
 
             //Определение номера выбранной функции
